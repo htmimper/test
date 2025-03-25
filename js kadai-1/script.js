@@ -1,7 +1,7 @@
 document.write( "問1 " );
 document.write( "<br>" );
 for(var star = 1; star < 6; star++){
-    document.write( "★" );
+    document.write( "☆" );
 }
 
 document.write( "<br>" );

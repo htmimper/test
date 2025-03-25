@@ -2,7 +2,7 @@
  document.write("あいうえお<br>");
  document.write("かきくけこ<br>");
  document.write("さしすせそ<br>");
- document.write("なにぬねの<br>はひふへほ<br>まみむめも");
+ document.write("なにぬねの<br>はひふへほ<br>まみむめも<br>やゆよ");
  document.write("<h1>あいうえお</h1>");
  document.write("かきくけこ<br>");
  document.write("さしすせそ<br>");
